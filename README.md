@@ -1,6 +1,6 @@
 # Welcome to Step by Step Scraping with BeautifulSoup! Make your own copy of this Colab to get started!
 
-This set of modules is made to help familiarize beginners the basics of scraping and parsing HTML. These modules use the "BeautifulSoup" Python library to introduce you to web scraping in a step-by-step, coding-optional environment. If you want to learn about the code,just double click the module to see the code underneath! I've worked to comment everything to clarify (to the best of my ability) how everythng works.
+This colab notebook was made to help familiarize beginners the basics of scraping and parsing HTML. These modules use the "BeautifulSoup" Python library to introduce you to web scraping in a step-by-step, coding-optional environment. I've worked to comment everything to clarify (to the best of my ability) how everythng works.
 
 This colab document should help you with the basics of filtering and viewing HTML, learning to find specific HTML tags to scrape, scraping and exporting data from HTML, and simple webpage-crawling. While not comprehensive, I hope that the following tool is useful and instructive, and should work well with text-analysis tools such as Orange and AntConc
 
@@ -16,4 +16,4 @@ This colab document should help you with the basics of filtering and viewing HTM
 
 ## Disclaimer
 
-Please keep in mind that these scrapers are set up for ease of use as an exploratory project by an academic and amatuer coder doing his best to learn python through practice! By setting up this simple scraper in Google Colab, my goal is to help other beginners to start scraping with Python as well. As such, keep in mind these scrapers are not made to be configured for multiple edge-cases: they cannot scrape from websites that implement rate-limitng or other measures to prevent scraping, and they cannot currently scrape multiple webpages for data at once. Also, please use these scrapers responsibly.
+Please keep in mind that these scrapers are set up for ease of use as an exploratory project by an academic and amatuer coder doing his best to learn python through practice. By setting up this simple scraper in Google Colab, my goal is to help other beginners to start scraping with Python as well. As such, keep in mind these scrapers are not made to be configured for multiple edge-cases: they cannot scrape from websites that implement rate-limitng or other measures to prevent scraping, and they cannot currently scrape multiple webpages for data at once. Also, please use these scrapers responsibly.
