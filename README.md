@@ -2,7 +2,7 @@
 
 This colab notebook was made to help familiarize beginners the basics of scraping and parsing HTML. These modules use the "BeautifulSoup" Python library to introduce you to web scraping in a step-by-step, coding-optional environment. I've worked to comment everything to clarify (to the best of my ability) how everythng works.
 
-This colab Notebook should help you with the basics of filtering and viewing HTML, learning to find specific HTML tags to scrape, scraping and exporting data from HTML, and simple webpage-crawling. While not comprehensive, I hope that the following tool is useful and instructive, and should work well with text-analysis tools such as Orange and AntConc. While this is meant to assist those interested in scraping, it is not meant to teach you how to code, or to build a scraper seperate from these instructions.
+This colab Notebook should help you with the basics of filtering and viewing HTML, learning to find specific HTML tags to scrape, scraping and exporting data from HTML, and simple webpage-crawling. While not comprehensive, I hope that the following tool is useful and instructive, and should work well with text-analysis tools such as Orange and AntConc. While this is meant to assist those interested in scraping, it is not meant to teach you how to code, or to build a scraper seperate from these instructions. I hope, however, that this can act as a helpful step to doing so,
 
 
 ## Who is this for?
