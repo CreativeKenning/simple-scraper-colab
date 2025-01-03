@@ -9,9 +9,9 @@ This colab Notebook should help you with the basics of filtering and viewing HTM
 1. I made this notebook for Academics with little to no coding experience, interested in learning how to parse HTML and scrape materials from webpages, or to simply engage in some simple scraping with no coding required, in a manner that can export CSV or TXT files for analysis.
 
 ## How to use
-1. Follow the link to the notebook in Google Colab
-2. Create a copy, and follow the directions therein to scrape and export website data
-3. Download your CSV or txt file, and use [Orange](https://orangedatamining.com/) or, [AntConc](https://www.laurenceanthony.net/software/antconc/) for further analysis.
+1. Click on "Scraper_Notebook.ipynb" to open the scraper in Google Colab
+2. Create your own copy, and follow the directions therein to scrape and export website data
+3. Download your scraped data as a CSV or txt file, and use [Orange](https://orangedatamining.com/) or, [AntConc](https://www.laurenceanthony.net/software/antconc/) for further analysis.
 
 
 ## Disclaimer
