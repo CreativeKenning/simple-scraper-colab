@@ -1,4 +1,4 @@
-# Welcome to Step by Step Scraping with BeautifulSoup! Make your own copy of this Colab Notebook to get started!
+# Welcome to Step by Step Scraping with BeautifulSoup! Make your own copy of the linked Colab Notebook to get started!
 
 This colab notebook was made to help familiarize beginners the basics of scraping and parsing HTML. These modules use the "BeautifulSoup" Python library to introduce you to web scraping in a step-by-step, coding-optional environment. I've worked to comment everything to clarify (to the best of my ability) how everythng works.
 
